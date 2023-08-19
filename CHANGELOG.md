@@ -2,6 +2,15 @@
 
 
 
+## v0.1.1 (2023-08-19)
+
+### Unknown
+
+* Merge branch &#39;main&#39; of https://github.com/lmst95/auto_versioning ([`d161b31`](https://github.com/lmst95/auto_versioning/commit/d161b3125cf9ed0a8faeae3fe83767bbb9988ddf))
+
+* Update pytest.yaml ([`1f66199`](https://github.com/lmst95/auto_versioning/commit/1f661990dc1de7058466beb5164efe41c6314e9b))
+
+
 ## v0.1.0 (2023-08-19)
 
 ### Feature
