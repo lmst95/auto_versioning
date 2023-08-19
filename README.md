@@ -1,1 +1,3 @@
-# auto_versioning
+# Auto Versioning
+
+This is a simple example package.
