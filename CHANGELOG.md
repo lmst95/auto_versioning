@@ -2,6 +2,17 @@
 
 
 
+## v0.1.0 (2023-08-19)
+
+### Feature
+
+* feat: test ([`86dee4b`](https://github.com/lmst95/auto_versioning/commit/86dee4bb8ce8b3152b6aa71f9a4af959e01bd3dd))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of https://github.com/lmst95/auto_versioning ([`2fae838`](https://github.com/lmst95/auto_versioning/commit/2fae838d4c832ee67b553853b0a517c77983be97))
+
+
 ## v0.0.0 (2023-08-19)
 
 ### Unknown
