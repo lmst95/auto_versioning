@@ -34,8 +34,9 @@ jobs:
           pytest
 
   release:
+    needs: test
     runs-on: ubuntu-latest
-    concurrency: test
+    concurrency: release
     permissions:
       id-token: write
       contents: write
