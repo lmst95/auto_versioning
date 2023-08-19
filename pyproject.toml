@@ -34,3 +34,8 @@ addopts = [
 testpaths = [
     "tests",
 ]
+
+[tool.semantic_release]
+version_toml = [
+    "pyproject.toml:project.version",
+]
